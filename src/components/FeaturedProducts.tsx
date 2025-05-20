@@ -8,11 +8,11 @@ const FeaturedProducts: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center mb-10">
           <div>
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-2">Featured Products</h2>
-            <p className="text-gray-400">Limited time offers on our most popular items</p>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-2">Nổi bật</h2>
+            <p className="text-gray-400">Các sản phẩm có lượt mua nhiều nhất</p>
           </div>
           <a href="#products" className="mt-4 md:mt-0 flex items-center text-indigo-400 hover:text-indigo-300 transition-colors">
-            View All Products <ArrowRight className="ml-2 h-4 w-4" />
+            Xem tất cả <ArrowRight className="ml-2 h-4 w-4" />
           </a>
         </div>
         
