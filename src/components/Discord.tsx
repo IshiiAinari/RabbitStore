@@ -99,7 +99,7 @@ const Discord: React.FC = () => {
                     <span className="text-white font-bold">Me</span>
                   </div>
                   <div>
-                    <h3 className="text-white font-semibold">Thế giới ROBUX</h3>
+                    <h3 className="text-white font-semibold">Thế Giới ROBUX</h3>
                     <p className="text-green-500 text-xs">Online</p>
                   </div>
                 </div>
@@ -109,16 +109,16 @@ const Discord: React.FC = () => {
               <div className="p-4">
                 <div className="flex flex-col space-y-4">
                   <div className="bg-gray-700/50 p-3 rounded-lg">
-                    <p className="text-white"><span className="font-semibold text-indigo-400">System:</span> Welcome to DevilMarket Discord Server!</p>
+                    <p className="text-white"><span className="font-semibold text-indigo-400">System:</span>CHào bạn đến với Thế Giới ROBUX!</p>
                   </div>
                   <div className="bg-gray-700/50 p-3 rounded-lg">
-                    <p className="text-white"><span className="font-semibold text-purple-400">Mod:</span> Check out our latest Devil Fruit collection!</p>
+                    <p className="text-white"><span className="font-semibold text-purple-400">Mod:</span>Hãy xem qua các sản phẩm đang được bán nhé!</p>
                   </div>
                   <div className="bg-gray-700/50 p-3 rounded-lg">
-                    <p className="text-white"><span className="font-semibold text-blue-400">Bot:</span> Use !shop to browse available items</p>
+                    <p className="text-white"><span className="font-semibold text-blue-400">Bot:</span>Hãy sử dụng /robux để xem giá robux hôm nay</p>
                   </div>
                   <div className="bg-gray-700/50 p-3 rounded-lg">
-                    <p className="text-white"><span className="font-semibold text-green-400">User:</span> The Bloxfruit accounts are amazing!</p>
+                    <p className="text-white"><span className="font-semibold text-green-400">User:</span>Tôi đã mua robux với giá cực rẻ!/p>
                   </div>
                 </div>
               </div>
