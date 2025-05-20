@@ -118,7 +118,7 @@ const Discord: React.FC = () => {
                     <p className="text-white"><span className="font-semibold text-blue-400">Bot:</span>Hãy sử dụng /robux để xem giá robux hôm nay</p>
                   </div>
                   <div className="bg-gray-700/50 p-3 rounded-lg">
-                    <p className="text-white"><span className="font-semibold text-green-400">User:</span>Tôi đã mua robux với giá cực rẻ!/p>
+                    <p className="text-white"><span className="font-semibold text-green-400">User:</span>Tôi đã mua robux với giá cực rẻ!</p>
                   </div>
                 </div>
               </div>
