@@ -51,7 +51,7 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
         <div className="flex justify-between items-center">
           <div>
             {product.discount > 0 && (
-              <span className="text-gray-500 text-sm line-through mr-2">${product.originalPrice}</span>
+              <span className="text-gray-500 text-sm line-through mr-2">{product.originalPrice} vnđ</span>
             )}
             <span className="text-white font-bold">${product.price}</span>
           </div>
