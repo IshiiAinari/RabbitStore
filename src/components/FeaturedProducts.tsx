@@ -48,12 +48,16 @@ const FeaturedProducts: React.FC = () => {
                   </div>
                   <div className="flex items-center text-yellow-500 text-sm">
                     <Clock className="h-4 w-4 mr-1" />
-                    <span>Limited Time</span>
+                    <span>Có hạn</span>
                   </div>
                 </div>
                 
                 <button className="w-full py-2 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-colors">
-                  Add to Cart
+                  <a href="https://discord.gg/cGCPqERHKU" 
+                     target="_blank" 
+                     rel="noopener noreferrer"
+                    >Tham gia ngay
+                  </a> 
                 </button>
               </div>
             </div>
