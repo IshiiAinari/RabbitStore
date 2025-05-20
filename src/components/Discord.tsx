@@ -99,7 +99,7 @@ const Discord: React.FC = () => {
                     <span className="text-white font-bold">Me</span>
                   </div>
                   <div>
-                    <h3 className="text-white font-semibold">Vườn Thỏ</h3>
+                    <h3 className="text-white font-semibold">Thế giới ROBUX</h3>
                     <p className="text-green-500 text-xs">Online</p>
                   </div>
                 </div>
@@ -126,7 +126,7 @@ const Discord: React.FC = () => {
               {/* Server Footer */}
               <div className="bg-gray-900 p-4 border-t border-gray-700">
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-400 text-sm">1,742 Members Online</span>
+                  <span className="text-gray-400 text-sm">342 Members Online</span>
                   <span className="text-gray-400 text-sm">Trải nghiệm ngay!</span>
                 </div>
               </div>
