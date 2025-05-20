@@ -30,10 +30,10 @@ const Discord: React.FC = () => {
           {/* Discord Content */}
           <div className="md:w-1/2 text-center md:text-left">
             <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-              Join Our <span className="text-indigo-400">Discord</span> Community
+              Tham gia <span className="text-indigo-400">Discord</span> cùng chúng tôi
             </h2>
             <p className="text-gray-300 mb-8">
-              Connect with other gamers, get exclusive deals, and stay updated with the latest Devil Fruits and Bloxfruit content!
+              Cập nhật giá cả của các sản phẩm thường ngày, nhận nhiều phần quà hấp dẫn và ưu đãi mỗi tuần!
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-8">
@@ -43,8 +43,8 @@ const Discord: React.FC = () => {
                   <MessageSquare className="text-indigo-400 h-6 w-6" />
                 </div>
                 <div>
-                  <h3 className="text-white font-semibold">Community Chat</h3>
-                  <p className="text-gray-400 text-sm">Connect with like-minded gamers</p>
+                  <h3 className="text-white font-semibold">Trò Chuyện</h3>
+                  <p className="text-gray-400 text-sm">Cùng trò chuyện với nhau</p>
                 </div>
               </div>
               
@@ -53,8 +53,8 @@ const Discord: React.FC = () => {
                   <Users className="text-purple-400 h-6 w-6" />
                 </div>
                 <div>
-                  <h3 className="text-white font-semibold">Exclusive Deals</h3>
-                  <p className="text-gray-400 text-sm">Get special offers and discounts</p>
+                  <h3 className="text-white font-semibold">Quà tặng</h3>
+                  <p className="text-gray-400 text-sm">Nhận quà và các deal cực hời</p>
                 </div>
               </div>
               
@@ -63,8 +63,8 @@ const Discord: React.FC = () => {
                   <Bot className="text-blue-400 h-6 w-6" />
                 </div>
                 <div>
-                  <h3 className="text-white font-semibold">Discord Bot</h3>
-                  <p className="text-gray-400 text-sm">Powerful gaming assistance</p>
+                  <h3 className="text-white font-semibold">Support</h3>
+                  <p className="text-gray-400 text-sm">Hỡ trợ các vấn đề về sản phẩm</p>
                 </div>
               </div>
               
@@ -73,8 +73,8 @@ const Discord: React.FC = () => {
                   <ExternalLink className="text-pink-400 h-6 w-6" />
                 </div>
                 <div>
-                  <h3 className="text-white font-semibold">SelfBot Support</h3>
-                  <p className="text-gray-400 text-sm">Advanced Discord automation</p>
+                  <h3 className="text-white font-semibold">18/24 Online</h3>
+                  <p className="text-gray-400 text-sm">Hỗ trợ hết mình!</p>
                 </div>
               </div>
             </div>
@@ -85,7 +85,7 @@ const Discord: React.FC = () => {
               rel="noopener noreferrer" 
               className="inline-block px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-transform transform hover:scale-105"
             >
-              Join Our Discord
+              Hãy tham gia ngay
             </a>
           </div>
           
@@ -96,10 +96,10 @@ const Discord: React.FC = () => {
               <div className="bg-gray-900 p-4 border-b border-gray-700">
                 <div className="flex items-center">
                   <div className="w-10 h-10 rounded-full bg-indigo-600 flex items-center justify-center mr-3">
-                    <span className="text-white font-bold">DM</span>
+                    <span className="text-white font-bold">Me</span>
                   </div>
                   <div>
-                    <h3 className="text-white font-semibold">DevilMarket</h3>
+                    <h3 className="text-white font-semibold">Vườn Thỏ</h3>
                     <p className="text-green-500 text-xs">Online</p>
                   </div>
                 </div>
@@ -126,8 +126,8 @@ const Discord: React.FC = () => {
               {/* Server Footer */}
               <div className="bg-gray-900 p-4 border-t border-gray-700">
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-400 text-sm">3,742 Members Online</span>
-                  <span className="text-gray-400 text-sm">Join Now →</span>
+                  <span className="text-gray-400 text-sm">1,742 Members Online</span>
+                  <span className="text-gray-400 text-sm">Trải nghiệm ngay!</span>
                 </div>
               </div>
             </div>
