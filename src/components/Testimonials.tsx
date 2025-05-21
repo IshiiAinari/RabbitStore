@@ -41,9 +41,9 @@ const Testimonials: React.FC = () => {
     <section id="testimonials" className="py-16 bg-gradient-to-b from-gray-900 to-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">What Our Customers Say</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Đánh Giá Từ Khách Hàng</h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Don't just take our word for it - hear from our satisfied customers
+            Các đánh giá gần nhất từ khách hàng
           </p>
         </div>
 
@@ -85,10 +85,10 @@ const Testimonials: React.FC = () => {
         {/* Call to Action */}
         <div className="mt-16 text-center">
           <h3 className="text-2xl font-bold text-white mb-4">
-            Ready to experience it yourself?
+            Hãy tham gia cùng chúng tôi!
           </h3>
           <button className="px-8 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-500 hover:to-indigo-500 text-white font-medium rounded-lg transition-transform transform hover:scale-105">
-            Shop Now
+            Tham Gia Ngay
           </button>
         </div>
       </div>
