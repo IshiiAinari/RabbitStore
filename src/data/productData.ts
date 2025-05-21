@@ -508,45 +508,6 @@ export const productData: Product[] = [
 
 export const featuredProducts: Product[] = [
   {
-    id: 101,
-    name: "Dark-Dark Devil Fruit",
-    description: "Control darkness and gravity with this legendary Logia-type Devil Fruit. Limited time offer!",
-    price: 1699000,
-    originalPrice: 2499000,
-    discount: 32,
-    image: "https://images.pexels.com/photos/6985132/pexels-photo-6985132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    category: "devil-fruits",
-    categoryName: "Devil Fruit",
-    rating: 5,
-    reviews: 203
-  },
-  {
-    id: 102,
-    name: "Elite Bloxfruit Bundle",
-    description: "Level 3000+ account with all rare fruits and exclusive items. Only 5 bundles available!",
-    price: 1299000,
-    originalPrice: 1999000,
-    discount: 35,
-    image: "https://images.pexels.com/photos/7915266/pexels-photo-7915266.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    category: "bloxfruit",
-    categoryName: "Bloxfruit",
-    rating: 5,
-    reviews: 97
-  },
-  {
-    id: 103,
-    name: "Ultimate Robux Pack",
-    description: "10,000 Robux with exclusive bonus items and premium account access for 1 month.",
-    price: 899000,
-    originalPrice: 1299000,
-    discount: 31,
-    image: "https://images.pexels.com/photos/7915509/pexels-photo-7915509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    category: "robux",
-    categoryName: "Robux",
-    rating: 5,
-    reviews: 142
-  },
-  {
     id: 5,
     name: 'NatureLover99',
     role: 'Bloxfruit Enthusiast',
