@@ -3,29 +3,29 @@ import { Product } from '../types';
 export const productData: Product[] = [
   {
     id: 1,
-    name: "Flame-Flame Devil Fruit",
-    description: "Become a living flame and control fire at will. One of the most sought-after Logia-type Devil Fruits.",
-    price: 149.99,
-    originalPrice: 199.99,
-    discount: 25,
-    image: "https://images.pexels.com/photos/3706684/pexels-photo-3706684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    name: "Dragon-Dragon",
+    description: "Giá 5000 robux, hào hảo cho việc tấn công và tránh né",
+    price: 700.000,
+    originalPrice: 1.400.000,
+    discount: 64,
+    image: "https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/DragonFruit.png/revision/latest?cb=20241218114129",
     category: "devil-fruits",
     categoryName: "Devil Fruit",
     rating: 5,
-    reviews: 128
+    reviews: 28
   },
   {
     id: 2,
-    name: "Quake-Quake Devil Fruit",
-    description: "Unleash devastating earthquakes and shockwaves. The power that can destroy the world.",
-    price: 199.99,
-    originalPrice: 249.99,
-    discount: 20,
+    name: "Gravity-Gravity",
+    description: "Giá 2300 robux, là một trái ác quỷ vừa được làm lại, mạng theo sức mạnh điều khiển thiên thạch",
+    price: 350.000,
+    originalPrice: 600.000,
+    discount: 58,
     image: "https://images.pexels.com/photos/5722396/pexels-photo-5722396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     category: "devil-fruits",
     categoryName: "Devil Fruit",
-    rating: 5,
-    reviews: 96
+    rating: 4,
+    reviews: 3
   },
   {
     id: 3,
