@@ -13,7 +13,7 @@ const testimonials = [
   {
     id: 2,
     name: 'Samantha Lee',
-    role: 'Roblox Enthusiast',
+    role: 'Bloxfruit Player',
     content: 'Great selection of Bloxfruit accounts at reasonable prices. The Discord community is also very helpful and friendly.',
     avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     rating: 4
