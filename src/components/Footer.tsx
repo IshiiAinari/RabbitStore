@@ -87,9 +87,9 @@ const Footer: React.FC = () => {
       {/* Bottom Footer */}
       <div className="border-t border-gray-800 py-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; {new Date().getFullYear()} DevilMarket. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Thế Giới ROBLOX. All rights reserved.</p>
           <p className="mt-2 md:mt-0 flex items-center">
-            Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> for gamers
+            Made with <Heart className="h-4 w-4 text-red-500 mx-1" /> for everyone
           </p>
         </div>
       </div>
