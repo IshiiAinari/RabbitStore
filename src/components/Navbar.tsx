@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <span className="text-white font-bold text-xl">Vườn Thỏ</span>
+            <span className="text-white font-bold text-xl">Thế Giới ROBLOX</span>
           </div>
 
           {/* Desktop Menu */}
@@ -34,13 +34,13 @@ const Navbar: React.FC = () => {
                   className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium flex items-center"
                   onClick={toggleProducts}
                 >
-                  Products <ChevronDown className="ml-1 w-4 h-4" />
+                  Sản Phẩm <ChevronDown className="ml-1 w-4 h-4" />
                 </button>
                 
                 {isProductsOpen && (
                   <div className="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-gray-800 ring-1 ring-black ring-opacity-5 py-1">
-                    <Link href="#devil-fruits" dropdown>Devil Fruits</Link>
-                    <Link href="#bloxfruit" dropdown>Bloxfruit Accounts</Link>
+                    <Link href="#devil-fruits" dropdown>Trái Ác Quỷ</Link>
+                    <Link href="#bloxfruit" dropdown>Tài Khoản Bloxfruit</Link>
                     <Link href="#gamepass" dropdown>Gamepass</Link>
                     <Link href="#robux" dropdown>Robux</Link>
                   </div>
@@ -48,8 +48,8 @@ const Navbar: React.FC = () => {
               </div>
               
               <Link href="#discord">Discord</Link>
-              <Link href="#testimonials">Reviews</Link>
-              <Link href="#contact">Contact</Link>
+              <Link href="#testimonials">Đánh Giá</Link>
+              <Link href="#contact">Liên Hệ</Link>
             </div>
           </div>
 
@@ -81,13 +81,13 @@ const Navbar: React.FC = () => {
         <div className="md:hidden bg-gray-800">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
             <Link href="#home" mobile>Home</Link>
-            <Link href="#devil-fruits" mobile>Devil Fruits</Link>
-            <Link href="#bloxfruit" mobile>Bloxfruit Accounts</Link>
+            <Link href="#devil-fruits" mobile>Trái Ác Quỷ</Link>
+            <Link href="#bloxfruit" mobile>Tài Khoản Bloxfruit</Link>
             <Link href="#gamepass" mobile>Gamepass</Link>
             <Link href="#robux" mobile>Robux</Link>
             <Link href="#discord" mobile>Discord</Link>
-            <Link href="#testimonials" mobile>Reviews</Link>
-            <Link href="#contact" mobile>Contact</Link>
+            <Link href="#testimonials" mobile>Đánh Giá</Link>
+            <Link href="#contact" mobile>Liên Hệ</Link>
           </div>
         </div>
       )}
