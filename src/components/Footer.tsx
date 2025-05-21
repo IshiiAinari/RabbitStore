@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-white text-lg font-bold mb-4">Thế giới ROBUX</h3>
+            <h3 className="text-white text-lg font-bold mb-4">Thế giới ROBLOX</h3>
             <p className="mb-4">Chuyên cung cấp các tài khoản game và các dịch vụ premium giá rẻ.</p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
