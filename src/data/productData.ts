@@ -545,5 +545,37 @@ export const featuredProducts: Product[] = [
     categoryName: "Robux",
     rating: 5,
     reviews: 142
-  }
+  },
+  {
+    id: 5,
+    name: 'NatureLover99',
+    role: 'Bloxfruit Enthusiast',
+    content: 'Tôi rất ấn tượng với chất lượng dịch vụ và tốc độ giao hàng. Trái ác quỷ nhận được đúng như mô tả, rất đáng giá!',
+    avatar: 'https://images.pexels.com/photos/6262244/pexels-photo-6262244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    rating: 5
+  },
+  {
+    id: 6,
+    name: 'HiddenGamer',
+    role: 'Roblox Player',
+    content: 'Dịch vụ tuyệt vời! Tôi đã mua nhiều lần và luôn hài lòng với chất lượng sản phẩm và hỗ trợ khách hàng.',
+    avatar: 'https://images.pexels.com/photos/4499121/pexels-photo-4499121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    rating: 4
+  },
+  {
+    id: 7,
+    name: 'SunsetSeeker',
+    role: 'Discord User',
+    content: 'Bot Discord hoạt động mượt mà và có nhiều tính năng hữu ích. Hỗ trợ kỹ thuật phản hồi nhanh chóng.',
+    avatar: 'https://images.pexels.com/photos/4992656/pexels-photo-4992656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    rating: 5
+  },
+  {
+    id: 8,
+    name: 'AnonymousCat',
+    role: 'Game Developer',
+    content: 'Mua Robux và Gamepass ở đây rất tiện lợi và giá cả hợp lý. Quy trình thanh toán nhanh chóng và an toàn.',
+    avatar: 'https://images.pexels.com/photos/4435864/pexels-photo-4435864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    rating: 5
+  },
 ];
