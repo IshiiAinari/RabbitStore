@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           {/* Hero Content */}
           <div className="md:w-1/2 text-center md:text-left">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4">
-              Trải nghiệm tuyệt vời tại <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">Thế Giới ROBUX</span>
+              Trải nghiệm tuyệt vời tại <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">Thế Giới ROBLOX</span>
             </h1>
             <p className="text-xl text-gray-300 mb-8">
               Chuyên cung cấp các tài khoản game và các dịch vụ premium giá rẻ!
