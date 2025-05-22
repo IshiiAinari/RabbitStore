@@ -80,7 +80,7 @@ const Discord: React.FC = () => {
             </div>
             
             <a 
-              href="https://discord.gg/cGCPqERHKU" 
+              href="https://discord.gg/WffnP4sQ4K" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="inline-block px-8 py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-transform transform hover:scale-105"

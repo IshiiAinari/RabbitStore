@@ -65,7 +65,7 @@ const FeaturedProducts: React.FC = () => {
                 </div>
                 
                 <button className="w-full py-2 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg transition-all duration-300 transform hover:scale-105 hover:shadow-glow">
-                  <a href="https://discord.gg/cGCPqERHKU" 
+                  <a href="https://discord.gg/WffnP4sQ4K" 
                      target="_blank" 
                      rel="noopener noreferrer"
                      className="flex items-center justify-center"
