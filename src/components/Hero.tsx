@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
                 Mua Ngay <ArrowRight className="ml-2 w-5 h-5" />
               </button>
               <button className="px-8 py-3 bg-transparent border-2 border-purple-500 text-white font-medium rounded-lg hover:bg-purple-500/20 transition-colors">
-              <a href="https://discord.gg/cGCPqERHKU" 
+              <a href="https://discord.gg/WffnP4sQ4K" 
                  target="_blank" 
                  rel="noopener noreferrer"
                 >

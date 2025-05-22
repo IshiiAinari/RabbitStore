@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a 
-                  href="https://discord.gg/cGCPqERHKU" 
+                  href="https://discord.gg/WffnP4sQ4K" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="inline-block px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg transition-colors mt-2"
