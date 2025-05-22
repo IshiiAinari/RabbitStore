@@ -7,7 +7,7 @@ export const productData: Product[] = [
     description: "Giá 50 robux, một trong những trái được ưa chuộng",
     price: 2720,
     originalPrice: 8000,
-    discount: 66,
+    discount: 66,https://discord.gg/WffnP4sQ4K
     image: "https://images.pexels.com/photos/32192556/pexels-photo-32192556.png?cs=srgb&dl=pexels-ainari-ishii-455892295-32192556.jpg&fm=jpg",
     category: "devil-fruits",
     categoryName: "Devil Fruit",
