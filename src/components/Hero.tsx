@@ -44,8 +44,8 @@ const Hero: React.FC = () => {
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96">
               <div className="absolute inset-0 bg-gradient-to-r from-purple-600 to-blue-600 rounded-full opacity-20 animate-pulse blur-xl"></div>
               <img 
-                src="https://images.pexels.com/photos/7915477/pexels-photo-7915477.jpeg" 
-                alt="Gaming Merchandise" 
+                src="https://images.pexels.com/photos/32201307/pexels-photo-32201307.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                alt="Shop Avatar" 
                 className="absolute inset-0 w-full h-full object-cover rounded-xl z-10"
               />
               <div className="absolute -bottom-4 -right-4 bg-gradient-to-r from-pink-600 to-purple-600 rounded-lg px-4 py-2 z-20 shadow-xl">
