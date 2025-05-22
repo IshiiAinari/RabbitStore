@@ -125,7 +125,7 @@ export const productData: Product[] = [
     price: 40800,
     originalPrice: 120000,
     discount: 66,
-    image: "https://static.wikia.nocookie.net/blox-fruits/images/ice.png",
+    image: "https://images.pexels.com/photos/32192545/pexels-photo-32192545.png?cs=srgb&dl=pexels-ainari-ishii-455892295-32192545.jpg&fm=jpg",
     category: "devil-fruits",
     categoryName: "Devil Fruit",
     rating: 5,
